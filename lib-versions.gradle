@@ -1,0 +1,13 @@
+ext {
+    kt_core = '1.7.0'
+    app_compat = '1.4.1'
+    material = '1.5.0'
+    junit = '4.13.2'
+    junit_ext = '1.1.3'
+    escpresso = '3.4.0'
+
+    minSdk=23
+    targetSdk=32
+    versionCode=1
+    versionName='1.0'
+}
